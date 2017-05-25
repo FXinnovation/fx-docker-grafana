@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e -x
+
+# Adding dashboards in the container
+mv -r /resources/dashboards /data/
