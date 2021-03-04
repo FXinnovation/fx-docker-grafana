@@ -1,5 +1,6 @@
 # CHANGELOG
 
-# x.x.x
+# 1.0.0
 
-* chore: add pre-commit
+* maintenance: move FROM: from alpine to grafana/grafana
+* maintenance: bump grafana to `7.4.2`
